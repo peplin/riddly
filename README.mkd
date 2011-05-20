@@ -1,0 +1,8 @@
+riddly
+==========
+
+This is the start of a Rails version of ccTiddly, but I was primarily interested
+in the models in order to manipulate existing ccTiddly data.
+
+I'm not actively working on this, but the models could be useful for someone
+else.
